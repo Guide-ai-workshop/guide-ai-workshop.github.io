@@ -39,8 +39,6 @@ Areas of interest for the workshop include:
 13. Interdisciplinary techniques: Collaboration with domain experts
 
 
-## Important Dates
-
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
