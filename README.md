@@ -8,7 +8,8 @@ seo:
   name: Guide-AI
 ---
 
-<img src="/assets/images/logo.png" width="200" height="60"> 
+<img src="/assets/images/logo.png" width="500" height="250">
+
 # Guide-AI Workshop @ SIGMOD2024
 
 Guide-AI seeks to **foster convergence between data management researchers and the broad Responsible AI researchers from neighboring communities like AI, Machine Learning, and Theoretical Computer Science**, to cultivate an environment for identifying challenges, exploring visionary solutions, and paving the way for the data management community to actively contribute to this pivotal research domain. 
