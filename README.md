@@ -15,8 +15,10 @@ The workshop solicits regular research papers (8 pages plus unlimited references
 You are welcome to view our:
 
 - [Topics of Interest](#topics-of-interest)
-- [Important Dates](#important-dates-and-submission-guidelines)
+- [Important Dates and Submission Guidelines](#important-dates-and-submission-guidelines)
 - [Call for Papers](#call-for-papers)
+- [Invited Speakers](#invited-speakers)
+- [Schedule](#schedule)
 - [Organizing Team](#team)
 
 ## Topics of Interest
