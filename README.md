@@ -8,7 +8,7 @@ seo:
   name: Guide-AI
 ---
 
-<img src="/assets/images/logo.png" width="500" height="250">
+<img src="/assets/images/logo.png" width="800" height="150">
 
 # Guide-AI Workshop @ SIGMOD2024
 
