@@ -1,17 +1,17 @@
 ---
-title: Important Dates
+title: Important Dates 2024
 ---
 
-March 20 2024
+March 20
 : [Submission deadline](#)
   : [5pm Pacific Time](#)
 
-April 25 2024
+April 25
 : [Notification of acceptance](#)
   : [(Accept/Reject)](#)
 
-May 15 2024
+May 15
 : [Final paper due](#)
 
-June 14 2024
+June 14
 : **Workshop**{: .label .label-purple }
