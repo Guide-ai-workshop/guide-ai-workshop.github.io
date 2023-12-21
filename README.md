@@ -58,3 +58,20 @@ This workshop specifically seeks to foster convergence between data management r
 - *Exploring Visionary Solutions*: Beyond pinpointing the challenges, this workshop aims at identifying both visionary and in-depth solution by the data management researchers. We particularly hope to encourage the community to embrace responsibility as a first-class citizen in their research.
 
 ## Team
+
+## Chairs
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+## Teaching Assistants
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
