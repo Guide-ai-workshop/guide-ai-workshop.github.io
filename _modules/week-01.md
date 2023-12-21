@@ -3,8 +3,8 @@ title:
 ---
 
 March 20
-  : [Submission deadline](#)
-    : [5pm Pacific Time](#)
+      : [Submission deadline](#)
+        : [5pm Pacific Time](#)
 
 April 25
 : [Notification of acceptance](#)
