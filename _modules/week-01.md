@@ -2,7 +2,7 @@
 title: Important Dates
 ---
 
-March 20, 5pm Pacific Time
+March 20 5pm Pacific Time
       : [Submission deadline](#) [](#)
 
 April 25
