@@ -3,7 +3,7 @@ title: Important Dates
 ---
 
 March 20, 5pm Pacific Time
-            : [Submission deadline](#)
+      : [Submission deadline](#)
 
 April 25
       : [Notification of acceptance](#) [(Accept/Reject)](#)
