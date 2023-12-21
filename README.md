@@ -14,12 +14,10 @@ Guide-AI seeks to **foster convergence between data management researchers and t
 The workshop solicits regular research papers (8 pages plus unlimited references) describing preliminary or completed research results, as well as short papers (up to 4 pages) such as reports on applications and tools or preliminary results, interesting use cases, problems, datasets, benchmarks, visionary ideas, and descriptions of system components and tools related to Responsible AI. Submissions should follow the guidelines as for [SIGMOD 2024](https://2024.sigmod.org/), i.e. use the sigconf template for the [ACM proceedings format](https://www.acm.org/publications/proceedings-template). 
 You are welcome to view our:
 
-- [announcements](announcements.md)
-- [Important Dates](calendar.md)
-- [Topics of Interest](topics.md)
+- [Topics of Interest](#topics-of-interest)
+- [Important Dates](#important-dates)
 - [Call for Papers](#call-for-papers)
-- [Organizing Team](staff.md)
-- [schedule](schedule.md).
+- [Organizing Team](#team)
 
 ## Topics of Interest
 
@@ -39,6 +37,7 @@ Areas of interest for the workshop include:
 12. Data Discovery and Governance of data sharing
 13. Interdisciplinary techniques: Collaboration with domain experts
 
+## Important Dates
 
 {% for module in site.modules %}
 {{ module }}
@@ -56,4 +55,6 @@ This workshop specifically seeks to foster convergence between data management r
 
 - *Community Convergence*: Data management researchers have the expertise to address data related problems. They have been focused to solve technical and challenging data problems. As a result, elegant solutions are constantly proposed to develop efficient, effective, and scalable data systems. Responsibility, however, has not been a main research objective for meany of the researchers in this community. On the other hand, the responsible AI community may not have the proper expertise or interest to approach the problem at the data level. As a result, most of their focus have been on achieving responsibility at the model construction level. A main objective of this workshop is to converge these two communities together by inviting outstanding researchers both inside and outside the data management community to give keynote talks and to present their findings. This will enable to potential to initiate interesting cross-community discussions.
 - *Identifying Challenges*: Facilitating exposure of data management researchers to responsible AI issues serves as a catalyst for identifying intricate data challenges, resulting in the discovery of innovative research within the data management community.
-- *Exploring Visionary Solutions*: Beyond pinpointing the challenges, this workshop aims at identifying both visionary and in-depth solution by the data management researchers. We particularly hope to encourage the community to embrace responsibility as a first-class citizen in their research. 
+- *Exploring Visionary Solutions*: Beyond pinpointing the challenges, this workshop aims at identifying both visionary and in-depth solution by the data management researchers. We particularly hope to encourage the community to embrace responsibility as a first-class citizen in their research.
+
+## Team
