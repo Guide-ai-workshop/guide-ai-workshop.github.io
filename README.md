@@ -56,6 +56,7 @@ There are two tracks available in Guide-AI:
 
 Authors will prepare their submissions according to the [ACM proceedings format](https://www.acm.org/publications/proceedings-template) consistent with the SIGMOD submission guidelines. Please use the latest ACM paper format with the sigconf template. Guide-AI has a double-blind review policy, thus **authors must not include their names and affiliations on the manuscript**.
 
+#### Submission website: TBD
 
 ## Call for Papers
 
