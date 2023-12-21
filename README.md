@@ -69,7 +69,7 @@ This workshop specifically seeks to foster convergence between data management r
 {% assign teaching_assistants = site.staffers | where: 'role', 'PC' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+## Program Committee
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
