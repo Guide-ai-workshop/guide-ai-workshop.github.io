@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Guide-AI
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Course
-  name: Just the Class
+  type: Workshop
+  name: Guide-AI
 ---
 
 # Guide-AI Workshop @ SIGMOD2024
