@@ -15,7 +15,7 @@ The workshop solicits regular research papers (8 pages plus unlimited references
 You are welcome to view our:
 
 - [Topics of Interest](#topics-of-interest)
-- [Important Dates](#important-dates)
+- [Important Dates](#important-dates-and-submission-guidelines)
 - [Call for Papers](#call-for-papers)
 - [Organizing Team](#team)
 
@@ -37,12 +37,15 @@ Areas of interest for the workshop include:
 12. Data Discovery and Governance of data sharing
 13. Interdisciplinary techniques: Collaboration with domain experts
 
-## Important Dates
+## Important Dates and Submission Guidelines
 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
 
+### Submission Guidelines
+
+TBD
 
 ## Call for Papers
 
