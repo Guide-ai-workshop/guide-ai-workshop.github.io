@@ -22,6 +22,8 @@ You are welcome to view our:
 
 ## Topics of Interest
 
+Areas of interest for the workshop include:
+
 1. Fairness, accountability, transparency, trustworthiness of all aspects of data management and Machine Learning.
 2. Explainability of complex data manipulations.
 3. Role of Data Integration and Quality Management in ML pipelines.
@@ -44,7 +46,7 @@ Such a versatile impact of this double-edged sword necessitates a careful unders
 The foundation of AI lies in data; hence any successful attempt would require a conscientious to data in order to effectively address the issues at the root.
 Conversely, most of the attempts have been on achieving responsible AI, given a dataset at hand, overlooking the role of its construction and assumptions.
 This workshop is an attempt to fill this gap by giving a special attention to GUIDE AI, to govern, understand, and integrate data for effective and responsible AI.
-This workshop specifically seeks to foster convergence between data management researchers and the broad Responsible AI researchers from neighboring communities like AI, Machine Learning, and Theoretical Computer Science, to cultivate an environment for identifying challenges, exploring visionary solutions, and paving the way for the data management community to actively contribute to this pivotal research domain. We plan to provide a forum for:
+This workshop specifically seeks to foster convergence between data management researchers and the broad Responsible AI researchers from neighboring communities like AI, Machine Learning, and Theoretical Computer Science, to cultivate an environment for identifying challenges, exploring visionary solutions, and paving the way for the data management community to actively contribute to this pivotal research domain. The workshop will provide a forum for:
 
 - *Community Convergence*: Data management researchers have the expertise to address data related problems. They have been focused to solve technical and challenging data problems. As a result, elegant solutions are constantly proposed to develop efficient, effective, and scalable data systems. Responsibility, however, has not been a main research objective for meany of the researchers in this community. On the other hand, the responsible AI community may not have the proper expertise or interest to approach the problem at the data level. As a result, most of their focus have been on achieving responsibility at the model construction level. A main objective of this workshop is to converge these two communities together by inviting outstanding researchers both inside and outside the data management community to give keynote talks and to present their findings. This will enable to potential to initiate interesting cross-community discussions.
 - *Identifying Challenges*: Facilitating exposure of data management researchers to responsible AI issues serves as a catalyst for identifying intricate data challenges, resulting in the discovery of innovative research within the data management community.
