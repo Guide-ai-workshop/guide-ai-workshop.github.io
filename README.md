@@ -17,7 +17,7 @@ You are welcome to view our:
 - [announcements](announcements.md)
 - [Important Dates](calendar.md)
 - [Topics of Interest](topics.md)
-- [Call for Papers]((#call-for-papers)
+- [Call for Papers](#call-for-papers)
 - [Organizing Team](staff.md)
 - [schedule](schedule.md).
 
