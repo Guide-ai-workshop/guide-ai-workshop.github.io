@@ -62,6 +62,14 @@ This workshop specifically seeks to foster convergence between data management r
 - *Identifying Challenges*: Facilitating exposure of data management researchers to responsible AI issues serves as a catalyst for identifying intricate data challenges, resulting in the discovery of innovative research within the data management community.
 - *Exploring Visionary Solutions*: Beyond pinpointing the challenges, this workshop aims at identifying both visionary and in-depth solution by the data management researchers. We particularly hope to encourage the community to embrace responsibility as a first-class citizen in their research.
 
+## Invited Speakers
+
+TBD
+
+## Schedule
+
+TBD
+
 ## Team
 
 ### Chairs
