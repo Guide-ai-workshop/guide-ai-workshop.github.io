@@ -1,6 +1,4 @@
----
-title:  
----
+
 
 March 20, 5pm Pacific Time
   : [Submission deadline](#)
