@@ -8,9 +8,7 @@ seo:
   name: Guide-AI
 ---
 
-# Guide-AI Workshop @ SIGMOD2024
-
-<img src="/assets/images/logo.png" width="300" height="100">
+<img src="/assets/images/logo.png" width="200" height="60"> # Guide-AI Workshop @ SIGMOD2024
 
 Guide-AI seeks to **foster convergence between data management researchers and the broad Responsible AI researchers from neighboring communities like AI, Machine Learning, and Theoretical Computer Science**, to cultivate an environment for identifying challenges, exploring visionary solutions, and paving the way for the data management community to actively contribute to this pivotal research domain. 
 The workshop solicits regular research papers (8 pages plus unlimited references) describing preliminary or completed research results, as well as short papers (up to 4 pages) such as reports on applications and tools or preliminary results, interesting use cases, problems, datasets, benchmarks, visionary ideas, and descriptions of system components and tools related to Responsible AI. Submissions should follow the guidelines as for [SIGMOD 2024](https://2024.sigmod.org/), i.e. use the sigconf template for the [ACM proceedings format](https://www.acm.org/publications/proceedings-template). 
