@@ -39,6 +39,13 @@ Areas of interest for the workshop include:
 13. Interdisciplinary techniques: Collaboration with domain experts
 
 
+## Important Dates
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
+
+
 ## Call for Papers
 
 In light of recent advancements in data-driven technologies, AI is reshaping every aspect of human life and societies.
