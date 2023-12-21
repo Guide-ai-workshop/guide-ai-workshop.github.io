@@ -1,23 +1,17 @@
 ---
-title: Introduction to Java
+title: Important Dates
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+March 20 2024
+: [Submission deadline](#)
+  : [5pm Pacific Time](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+April 25 2024
+: [Notification of acceptance](#)
+  : [(Accept/Reject)](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+May 15 2024
+: [Final paper due](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+June 14 2024
+: **Workshop**{: .label .label-purple }
