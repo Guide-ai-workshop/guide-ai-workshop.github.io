@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Guide-AI
-nav_exclude: false
+nav_exclude: true
 permalink: /:path/
 seo:
   type: Workshop
