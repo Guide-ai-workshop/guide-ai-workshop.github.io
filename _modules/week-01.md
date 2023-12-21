@@ -12,4 +12,4 @@ May 15
       : [Final paper due](#)
 
 June 14
-      : **GUIDE-AI Workshop**{: .label .label-blue }
+      : **GUIDE-AI Workshop**{: .label .label-purple }
