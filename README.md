@@ -59,6 +59,8 @@ This workshop specifically seeks to foster convergence between data management r
 
 ## Team
 
+### Chairs
+
 {% assign instructors = site.staffers | where: 'role', 'Co-Chair' %}
 {% for staffer in instructors %}
 {{ staffer }}
