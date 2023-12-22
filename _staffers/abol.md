@@ -2,6 +2,6 @@
 name: Abolfazl Asudeh
 role: Co-Chair
 email: asudeh@uic.edu
-website: https://asudeh.github.io/
-photo: kevin.jpg
+website: https://www.cs.uic.edu/~asudeh/
+photo: abol.jpg
 ---
