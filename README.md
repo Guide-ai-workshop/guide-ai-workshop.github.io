@@ -9,7 +9,8 @@ seo:
 ---
 
 <!--<img src="/assets/images/logo.png" width="800" height="100">-->
-<img src="/assets/images/guide-AI-logo1.png" height="200">
+<!--<img src="/assets/images/guide-AI-logo1.png" height="200">-->
+<img src="/assets/images/workshop-logo.png" height="100">
 
 # **Guide-AI Workshop @ SIGMOD2024**
 
