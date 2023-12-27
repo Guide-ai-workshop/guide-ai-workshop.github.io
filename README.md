@@ -13,7 +13,6 @@ seo:
 <img src="/assets/images/workshop_logo.png" height="100">
 
 # **Guide-AI Workshop @ SIGMOD2024**
-*The first ACM SIGMOD workshop on Governance, Understanding, and Integration of Data for Effective and Responsible AI*
 
 Guide-AI seeks to **foster convergence between data management researchers and the broad Responsible AI researchers from neighboring communities like AI, Machine Learning, and Theoretical Computer Science**, to cultivate an environment for identifying challenges, exploring visionary solutions, and paving the way for the data management community to actively contribute to this pivotal research domain. 
 
