@@ -2,13 +2,13 @@
 title: Important Dates
 ---
 
-March 20, 5pm Pacific Time
+April 5, 5pm Pacific Time
       : [Submission deadline](#) [](#)
 
-April 25
+May 2
       : [Notification of decision](#) [(Accept/Reject)](#)
 
-May 15
+May 22
       : [Camera-Ready version due](#)
 
 June 14
