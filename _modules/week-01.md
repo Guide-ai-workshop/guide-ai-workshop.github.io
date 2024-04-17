@@ -2,8 +2,8 @@
 title: Important Dates
 ---
 
-April 15, 5pm Pacific Time
-      : [Submission deadline](#) [](#)
+~~April 15, 5pm Pacific Time~~
+      ~~: [Submission deadline](#) [](#)~~
 
 May 12
       : [Notification of decision](#) [(Accept/Reject)](#)
