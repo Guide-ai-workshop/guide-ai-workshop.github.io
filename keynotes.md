@@ -14,6 +14,13 @@ seo:
 
 ## Keynote 1
 
+---
+name: Steven Whang
+role: Keynote
+email: 
+website: https://stevenwhang.com
+photo: Steven_Whang.jpg
+---
 [Steven Whang](https://stevenwhang.com)
 
 ### Title: Towards a Holistic Framework for Data-centric Responsible AI
