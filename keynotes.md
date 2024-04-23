@@ -8,6 +8,9 @@ seo:
   name: Guide-AI
 ---
 
+<img src="/assets/images/workshop_logo.png" height="100">
+
+# ** Keynotes **
 
 ## Keynote 1
 
