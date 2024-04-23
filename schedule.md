@@ -1,4 +1,16 @@
 ---
+layout: home
+title: Schedule
+nav_exclude: false
+permalink: /:path/schedule
+seo:
+  type: Workshop
+  name: Guide-AI
+---
+
+# Schedule
+
+---
 timeline:
   - '9:00 AM'
   - '9:30 AM'
