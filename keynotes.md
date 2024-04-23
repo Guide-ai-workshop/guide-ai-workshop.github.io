@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Keynote Talks
+title: Invited Speakers
 nav_exclude: false
 permalink: /:path/keynotes
 seo:
@@ -10,7 +10,7 @@ seo:
 
 <img src="/assets/images/workshop_logo.png" height="100">
 
-# Keynote Talks
+# Invited Speakers
 
 ## Keynote 1
 
