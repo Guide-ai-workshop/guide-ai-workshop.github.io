@@ -1,3 +1,14 @@
+---
+layout: home
+title: Keynote Talks
+nav_exclude: false
+permalink: /:path/keynotes
+seo:
+  type: Workshop
+  name: Guide-AI
+---
+
+
 ## Keynote 1
 
 [Steven Whang](https://stevenwhang.com)
