@@ -1,8 +1,7 @@
-
 ---
 name: Steven Whang
 role: Steven
-email: 
+email: swhang@kaist.ac.kr
 website: https://stevenwhang.com
 photo: Steven_Whang.jpg
 ---
