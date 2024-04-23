@@ -10,7 +10,7 @@ seo:
 
 <img src="/assets/images/workshop_logo.png" height="100">
 
-# ** Keynotes **
+# ** Keynote Talks **
 
 ## Keynote 1
 
