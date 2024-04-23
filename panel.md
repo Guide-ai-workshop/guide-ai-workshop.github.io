@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Panel
+title: Panel Discussion
 nav_exclude: false
 permalink: /:path/panel
 seo:
