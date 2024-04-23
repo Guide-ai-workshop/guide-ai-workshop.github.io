@@ -22,8 +22,8 @@ You are welcome to view our:
 - [Topics of Interest](#topics-of-interest)
 - [Important Dates and Submission Guidelines](#important-dates-and-submission-guidelines)
 - [Call for Papers](#call-for-papers)
-- [Invited Speakers](#invited-speakers)
-- [Schedule](#schedule)
+<!---- [Invited Speakers](#invited-speakers) 
+- [Schedule](#schedule)-->
 - [Organizing Team](#team)
 
 ## Topics of Interest
@@ -45,7 +45,7 @@ Areas of interest for the workshop include:
 13. Interdisciplinary techniques: Collaboration with domain experts
 
 
-
+<!---- 
 ## Keynote 1
 
 [Steven Whang](https://stevenwhang.com)
@@ -100,7 +100,7 @@ Felix Naumann studied mathematics, economy, and computer sciences at the Univers
 ## Schedule
 
 TBD
-
+-->
 
 ## Important Dates and Submission Guidelines
 
