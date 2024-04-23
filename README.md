@@ -50,6 +50,8 @@ Areas of interest for the workshop include:
 
 [Steven Whang](https://stevenwhang.com)
 
+### Title: Towards a Holistic Framework for Data-centric Responsible AI
+
 ### Abstract 
 
 Responsible AI is becoming critical as AI is widely used in our everyday lives. Many companies that deploy AI publicly state that when training a model, we not only need to improve its accuracy, but also need to guarantee that the model does not discriminate against users (fairness), is resilient to noisy or poisoned data (robustness), protects personal information (privacy), and is interpretable (explainability) among others. In addition, these objectives are not only relevant to model training, but to all steps of machine learning starting from the data. A holy grail challenge is to support all of these objectives in one holistic framework that is also easy to use. To this end, I will give an overview of the data-centric responsible AI research in the Data Intelligence Lab at KAIST. I will first introduce fairness techniques throughout the machine learning process: fair model training using sample selection (ICLR’21), fair data labeling (VLDB’24, ACM SIGMOD’23), and fair data acquisition (ACM SIGMOD’21). Next, I will explain our works on other responsible AI objectives: fair and robust training (NeurIPS’21, ICML’20), privacy using disinformation (AAAI’23), and explainability-first clustering (AAAI’23). We believe we are just scratching the surface of a truly holistic solution and that many exciting challenges lie ahead.
@@ -73,8 +75,9 @@ Steven Euijong Whang is an associate professor with tenure at KAIST EE and AI an
 
 [Felix Naumann]([https://stevenwhang.com](https://hpi.de/naumann/people/felix-naumann.html))
 
+### Title: Data Quality in the Age of AI
+
 ### Abstract 
-Data Quality in the Age of AI
 
 Data quality comprises a large set of dimensions, covering many facets including simple statistics, syntactic problems, factual errors, and organizational and business aspects. With the current trend in data-oriented sciences and the increasing reliance on machine learning methods and AI systems, the challenges of poor data quality are ever more apparent. Even recent legislation, such as the EU AI Act, mentions data quality requirements for training data. With it, the notion of data quality extends to novel dimensions, such as fairness, diversity, or explainability. In the talk we shall highlight past research in this field and point out current challenges and research opportunities.
 
