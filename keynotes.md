@@ -19,8 +19,6 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-[Steven Whang](https://stevenwhang.com)
-
 ### Title: Towards a Holistic Framework for Data-centric Responsible AI
 
 ### Abstract 
@@ -44,7 +42,10 @@ Steven Euijong Whang is an associate professor with tenure at KAIST EE and AI an
 
 ## Keynote 2
 
-[Felix Naumann]([https://stevenwhang.com](https://hpi.de/naumann/people/felix-naumann.html))
+{% assign instructors = site.staffers | where: 'role', 'Felix' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
 ### Title: Data Quality in the Age of AI
 
