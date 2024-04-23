@@ -58,13 +58,13 @@ Responsible AI is becoming critical as AI is widely used in our everyday lives. 
 
 #### Covered papers:
 
-Roh et al., "FairBatch: Batch Selection for Model Fairness", ICLR 2021
-Zhang et al., "iFlipper: Label Flipping for Individual Fairness", SIGMOD 2023
-Tae et al., “Falcon: Fair Active Learning using Multi-armed Bandits”, VLDB 2024
-Tae and Whang, "Slice Tuner: A Selective Data Acquisition Framework for Accurate and Fair Machine Learning Models", SIGMOD 2021
-Roh et al., "Sample Selection for Fair and Robust Training", NeurIPS 2021
-Heo and Whang, "Redactor: A Data-Centric and Individualized Defense against Inference Attacks", AAAI 2023
-Hwang and Whang, "XClusters: Explainability-first Clustering", AAAI 2023
+- Roh et al., "FairBatch: Batch Selection for Model Fairness", ICLR 2021
+- Zhang et al., "iFlipper: Label Flipping for Individual Fairness", SIGMOD 2023
+- Tae et al., “Falcon: Fair Active Learning using Multi-armed Bandits”, VLDB 2024
+- Tae and Whang, "Slice Tuner: A Selective Data Acquisition Framework for Accurate and Fair Machine Learning Models", SIGMOD 2021
+- Roh et al., "Sample Selection for Fair and Robust Training", NeurIPS 2021
+- Heo and Whang, "Redactor: A Data-Centric and Individualized Defense against Inference Attacks", AAAI 2023
+- Hwang and Whang, "XClusters: Explainability-first Clustering", AAAI 2023
 
 ### Bio
 
