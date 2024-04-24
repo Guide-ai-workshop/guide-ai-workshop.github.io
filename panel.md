@@ -5,7 +5,7 @@ nav_exclude: false
 permalink: /:path/panel
 seo:
   type: Workshop
-  name: Guide-AI
+  name: Homepage
 ---
 
 <img src="/assets/images/workshop_logo.png" height="100">
