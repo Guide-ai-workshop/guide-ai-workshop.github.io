@@ -16,6 +16,21 @@ seo:
 
 ## Participants
 
+{% assign instructors = site.staffers | where: 'role', 'Steven' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign instructors = site.staffers | where: 'role', 'Felix' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign instructors = site.staffers | where: 'role', 'Panel' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
 - Sudeepa Roy (Duke University)
 - Boris Glavic (University of Illinois at Chicago)
 - Felix Naumann (Hasso Plattner Institute, University of Potsdam)
