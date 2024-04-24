@@ -31,8 +31,9 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-- Sudeepa Roy (Duke University)
+<!--- - Sudeepa Roy (Duke University)
 - Boris Glavic (University of Illinois at Chicago)
 - Felix Naumann (Hasso Plattner Institute, University of Potsdam)
 - Steven Whang (KAIST)
 - Fatemeh Nargesian (University of Rochester)
+--->
