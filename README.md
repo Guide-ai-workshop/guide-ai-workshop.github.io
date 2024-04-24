@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Guide-AI
+title: Homepage
 nav_exclude: false
 permalink: /:path/
 seo:
