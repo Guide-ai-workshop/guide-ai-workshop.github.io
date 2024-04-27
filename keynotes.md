@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Invited Speakers
+title: Keynotes
 nav_exclude: false
 permalink: /:path/keynotes
 seo:
