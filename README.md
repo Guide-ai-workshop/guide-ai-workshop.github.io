@@ -26,6 +26,19 @@ You are welcome to view our:
 <!--- - [Schedule](#schedule) -->
 - [Organizing Team](#team)
 
+
+## Keynote Speakers
+
+{% assign instructors = site.staffers | where: 'role', 'Steven' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign instructors = site.staffers | where: 'role', 'Felix' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
 ## Topics of Interest
 
 Areas of interest for the workshop include:
