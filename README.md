@@ -58,7 +58,7 @@ Areas of interest for the workshop include:
 13. Interdisciplinary techniques: Collaboration with domain experts
 
 
-<!---- 
+<!--- 
 ## Keynote 1
 
 [Steven Whang](https://stevenwhang.com)
@@ -109,9 +109,13 @@ Felix Naumann studied mathematics, economy, and computer sciences at the Univers
 - Steven Whang (KAIST)
 - Fatemeh Nargesian (University of Rochester)
 
+
+
 ## Schedule
 
 TBD
+
+--->
 
 ## Important Dates and Submission Guidelines
 
