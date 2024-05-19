@@ -104,7 +104,7 @@ Felix Naumann studied mathematics, economy, and computer sciences at the Univers
 
 ## Panel Discussion: The Role of Data Management Research for Responsible AI
 
-- Sudeepa Roy (Duke University)
+<!-- - Sudeepa Roy (Duke University) -->
 - Boris Glavic (University of Illinois at Chicago)
 - Felix Naumann (Hasso Plattner Institute, University of Potsdam)
 - Steven Whang (KAIST)
