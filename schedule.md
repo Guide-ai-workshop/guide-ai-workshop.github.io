@@ -9,7 +9,8 @@ seo:
 ---
 
 # Schedule
-## Workshop location: Antártica room
+## Time: Friday, June 14
+## Location: Antártica room
 
 ### Session 1, Chair: Abolfazl Asudeh
 - 8:30 AM - 8:35 AM **Opening Remarks**
