@@ -9,7 +9,7 @@ seo:
 ---
 
 # Schedule
-## Time: Friday, June 14
+## Date: Friday, June 14
 ## Location: Antártica room
 
 ### Session 1, Chair: Abolfazl Asudeh
@@ -21,7 +21,7 @@ seo:
 - 10:00 AM - 10:30 AM **Coffee Break**
 
 ### Session 2, Panel Discussion 
-- 10:30 AM - 12:00 PM **Panel: The Role of Data Management Research for Responsible AI**
+- 10:30 AM - 12:00 PM **Panel: The Role of Data Management Research for Responsible AI** with Steven Whang, Felix Naumann, Boris Glavic, Fatemeh Nargesian, and Leopoldo Bertossi
 
 - 12:00 PM – 2:00 PM Lunch
 
