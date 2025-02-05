@@ -16,7 +16,7 @@ seo:
 - 8:30 AM - 8:35 AM **Opening Remarks**
 - 8:35 AM  - 9:30 AM **Keynote1: Steven Whang**
 - 9:30 AM - 9:45 AM **Digging Up Threats to Validity: A Data Marshalling Approach to Sensitivity Analysis** Anna Zeng (MIT), Michael Cafarella (MIT CSAIL)
-- 9:45 AM - 10:00 AM **Press ECCS to Doubt (Your Causal Graph)** Markos Markakis (Massachusetts Institute of Technology), Ziyu Zhang (MIT), Rana Shahout (Harvard), Trinity Gao (MIT), Chunwei Liu (MIT), Ibrahim Sabek (University of Southern California), Michael Cafarella (MIT CSAIL) <span style="color:blue">Best Workshop Paper</span>
+- 9:45 AM - 10:00 AM **Press ECCS to Doubt (Your Causal Graph)** Markos Markakis (Massachusetts Institute of Technology), Ziyu Zhang (MIT), Rana Shahout (Harvard), Trinity Gao (MIT), Chunwei Liu (MIT), Ibrahim Sabek (University of Southern California), Michael Cafarella (MIT CSAIL) <span style="color:blue">**Best Workshop Paper**</span>
 
 - 10:00 AM - 10:30 AM **Coffee Break**
 
